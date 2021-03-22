@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.pythonanywhere.com	TRUE	/	FALSE	1999999999	cookie_warning_seen	True
+www.pythonanywhere.com	TRUE	/	FALSE	1999999999	csrftoken	yh1zVEgfYJHVKQHQjQSGErIOfyekwrnbOrQvzQJbts5AYerikq2xwLLebVbFQUUM
+www.pythonanywhere.com	TRUE	/	FALSE	1999999999	sessionid	qgjarcwyfu3oiv2pezbcp4mzc58f552f
+www.pythonanywhere.com	TRUE	/	FALSE	1999999999	SameSite	None
+

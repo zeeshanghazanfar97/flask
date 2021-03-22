@@ -1,0 +1,1 @@
+;$(function(){document.getElementById('id_auth-username').focus();});

@@ -1,0 +1,15 @@
+#id_signup_container {
+    font-size: 10pt;
+    text-align: right;
+}
+
+ul.errorlist {
+    list-style: none;
+    color: #AA2222;
+    padding: 0;
+    margin: 0;
+}
+
+#id_login_error {
+    color: #AA2222;
+}
